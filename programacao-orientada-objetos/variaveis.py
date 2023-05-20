@@ -8,6 +8,7 @@ var_boolean = True
 
 # imprimindo o valor da variavel
 print(var_string1)
+print(var_complex)
 
 # identificando o tipo de variavel
 print(type(var_string1))
