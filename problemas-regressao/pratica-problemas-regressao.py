@@ -18,3 +18,9 @@ from sklearn.linear_model import Lasso
 from sklearn.neighbors import KNeighborsRegressor
 from sklearn.tree import DecisionTreeRegressor
 from sklearn.svm import SVR
+
+diabetes = load_diabetes()
+dataset = pd.DataFrame(diabetes.data, columns=diabetes.feature_names)
+dataset['target'] = diabetes.target
+
+print(dataset.head())
