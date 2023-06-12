@@ -5,7 +5,7 @@ warnings.filterwarnings("ignore")
 # imports necessários
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as pl
+import matplotlib.pyplot as plt
 import urllib.request
 from urllib.parse import quote
 from io import StringIO, BytesIO, TextIOWrapper
