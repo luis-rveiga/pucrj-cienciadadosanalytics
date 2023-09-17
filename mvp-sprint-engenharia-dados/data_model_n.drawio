@@ -1,0 +1,97 @@
+<mxfile host="app.diagrams.net" modified="2023-09-17T23:09:18.550Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.81" etag="-rnf8KP_qpJVvgEB_dOm" version="21.7.5" type="device">
+  <diagram name="Página-1" id="_LJhTbvfug8KBNsA1DNJ">
+    <mxGraphModel dx="953" dy="741" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gXvXrodf0AzL00tx_YXE-1" value="bolsa_familia_2014_2019" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="89" y="250" width="265" height="176" as="geometry" />
+        </mxCell>
+        <mxCell id="gXvXrodf0AzL00tx_YXE-2" value="codigo_regiao" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="gXvXrodf0AzL00tx_YXE-1" vertex="1">
+          <mxGeometry y="26" width="265" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gXvXrodf0AzL00tx_YXE-3" value="ano" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="gXvXrodf0AzL00tx_YXE-1" vertex="1">
+          <mxGeometry y="56" width="265" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gXvXrodf0AzL00tx_YXE-4" value="media_qtd_familias_beneficiarias_bolsa_familia" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="gXvXrodf0AzL00tx_YXE-1" vertex="1">
+          <mxGeometry y="86" width="265" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gXvXrodf0AzL00tx_YXE-5" value="media_valor_repassado_bolsa_familia" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="gXvXrodf0AzL00tx_YXE-1" vertex="1">
+          <mxGeometry y="116" width="265" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gXvXrodf0AzL00tx_YXE-6" value="media_valor_medio_beneficio" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="gXvXrodf0AzL00tx_YXE-1" vertex="1">
+          <mxGeometry y="146" width="265" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gXvXrodf0AzL00tx_YXE-33" value="pib_municipios_2010_2020" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="506" y="248" width="214" height="176" as="geometry" />
+        </mxCell>
+        <mxCell id="gXvXrodf0AzL00tx_YXE-34" value="ano" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="gXvXrodf0AzL00tx_YXE-33" vertex="1">
+          <mxGeometry y="26" width="214" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gXvXrodf0AzL00tx_YXE-35" value="codigo_municipio" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="gXvXrodf0AzL00tx_YXE-33" vertex="1">
+          <mxGeometry y="56" width="214" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gXvXrodf0AzL00tx_YXE-36" value="codigo_regiao" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="gXvXrodf0AzL00tx_YXE-33" vertex="1">
+          <mxGeometry y="86" width="214" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gXvXrodf0AzL00tx_YXE-37" value="pib" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="gXvXrodf0AzL00tx_YXE-33" vertex="1">
+          <mxGeometry y="116" width="214" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gXvXrodf0AzL00tx_YXE-38" value="pib_percapita" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="gXvXrodf0AzL00tx_YXE-33" vertex="1">
+          <mxGeometry y="146" width="214" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gXvXrodf0AzL00tx_YXE-39" value="relatorio_dtb_brasil_municipio" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="202" y="449" width="217" height="206" as="geometry" />
+        </mxCell>
+        <mxCell id="gXvXrodf0AzL00tx_YXE-40" value="uf" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="gXvXrodf0AzL00tx_YXE-39" vertex="1">
+          <mxGeometry y="26" width="217" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gXvXrodf0AzL00tx_YXE-41" value="nome_uf" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="gXvXrodf0AzL00tx_YXE-39" vertex="1">
+          <mxGeometry y="56" width="217" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gXvXrodf0AzL00tx_YXE-42" value="codigo_regiao" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="gXvXrodf0AzL00tx_YXE-39" vertex="1">
+          <mxGeometry y="86" width="217" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gXvXrodf0AzL00tx_YXE-43" value="nome_regiao" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="gXvXrodf0AzL00tx_YXE-39" vertex="1">
+          <mxGeometry y="116" width="217" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gXvXrodf0AzL00tx_YXE-44" value="codigo_municipio" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="gXvXrodf0AzL00tx_YXE-39" vertex="1">
+          <mxGeometry y="146" width="217" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gXvXrodf0AzL00tx_YXE-45" value="nome_municipio" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="gXvXrodf0AzL00tx_YXE-39" vertex="1">
+          <mxGeometry y="176" width="217" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gXvXrodf0AzL00tx_YXE-46" value="tx_transicao_municipios_2014_2019" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="294" y="30" width="270" height="206" as="geometry" />
+        </mxCell>
+        <mxCell id="gXvXrodf0AzL00tx_YXE-47" value="ano" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="gXvXrodf0AzL00tx_YXE-46" vertex="1">
+          <mxGeometry y="26" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gXvXrodf0AzL00tx_YXE-48" value="codigo_municipio" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="gXvXrodf0AzL00tx_YXE-46" vertex="1">
+          <mxGeometry y="56" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gXvXrodf0AzL00tx_YXE-49" value="tipo_local" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="gXvXrodf0AzL00tx_YXE-46" vertex="1">
+          <mxGeometry y="86" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gXvXrodf0AzL00tx_YXE-50" value="dependencia" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="gXvXrodf0AzL00tx_YXE-46" vertex="1">
+          <mxGeometry y="116" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gXvXrodf0AzL00tx_YXE-51" value="valor" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="gXvXrodf0AzL00tx_YXE-46" vertex="1">
+          <mxGeometry y="146" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gXvXrodf0AzL00tx_YXE-52" value="tipo" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="gXvXrodf0AzL00tx_YXE-46" vertex="1">
+          <mxGeometry y="176" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gXvXrodf0AzL00tx_YXE-53" value="tx_transicao_municipios_tipo" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="469" y="451" width="211" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="gXvXrodf0AzL00tx_YXE-54" value="tipo" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="gXvXrodf0AzL00tx_YXE-53" vertex="1">
+          <mxGeometry y="26" width="211" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gXvXrodf0AzL00tx_YXE-55" value="descricao" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="gXvXrodf0AzL00tx_YXE-53" vertex="1">
+          <mxGeometry y="56" width="211" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
